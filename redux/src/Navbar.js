@@ -19,7 +19,7 @@ const Navbar = () => {
                             </li>
                         </ul>
                         <div>
-                            <button disabled={true} type="button" class="btn btn-primary">Bank Balance: 0</button>
+                            <button disabled={true} type="button" className="btn btn-primary">Bank Balance: 0</button>
                         </div>
                     </div>
                 </div>
